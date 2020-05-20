@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFrameworks>netstandard2.1;net45</TargetFrameworks>
+    <Authors>vulild</Authors>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Product>Ionic.Zlib</Product>
+    <PackageProjectUrl>https://github.com/vulild/Ionic.Zlib</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/vulild/Ionic.Zlib</RepositoryUrl>
+    <Version>2020.0520.1621</Version>
+    <PackageId>Vulild.Ionic.Zlib</PackageId>
+  </PropertyGroup>
+
+</Project>
